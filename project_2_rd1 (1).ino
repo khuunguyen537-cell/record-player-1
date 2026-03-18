@@ -1,5 +1,4 @@
-/* bryce barkdull
-ME 208 - project 2
+/* ME 208 - project 2
 last updated 11/12/2025
 I didnt use ai */
 
